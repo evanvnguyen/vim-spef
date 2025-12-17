@@ -14,7 +14,7 @@ Copy
  to 
 `~/.vim/ftdetect/spef.vim`
 
-##Usage
+## Usage
 
 Open any `.spef` file - to apply automatic highlighting 
 
